@@ -1,2 +1,2 @@
 # finding-donors-udacity
-Data Science project for Udacity
+Data Science project for Udacity - Supervised Learning
